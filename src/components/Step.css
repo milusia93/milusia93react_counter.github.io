@@ -1,0 +1,12 @@
+.step {
+    margin-top: 16px;
+}
+
+.step input {
+    width: 60px;
+    margin-left: 10px;
+}
+
+.step .stepLabel {
+    color: blueviolet;
+}
